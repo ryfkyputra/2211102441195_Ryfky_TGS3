@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sirine
+comment1.params=
+comment1.target=void\ nyalakanSirine()
+comment2.params=
+comment2.target=void\ matikanSirine()
+comment3.params=jenis
+comment3.target=void\ gantiSuaraSirine(int)
+numComments=4

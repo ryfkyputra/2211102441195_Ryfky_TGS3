@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Televisi
+comment1.params=merk
+comment1.target=Televisi(java.lang.String)
+comment2.params=
+comment2.target=void\ on()
+comment3.params=
+comment3.target=void\ off()
+comment4.params=c
+comment4.target=void\ gantiChanel(int)
+numComments=5

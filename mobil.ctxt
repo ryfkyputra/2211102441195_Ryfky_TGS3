@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=mobil
+comment1.params=
+comment1.target=void\ nyalakanMesin()
+comment2.params=
+comment2.target=void\ matikanMesin()
+comment3.params=
+comment3.target=void\ tambahkanGerigi()
+comment4.params=
+comment4.target=void\ turunkanGerigi()
+comment5.params=
+comment5.target=void\ tekanGas()
+comment6.params=
+comment6.target=void\ tekanRem()
+numComments=7
